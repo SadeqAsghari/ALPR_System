@@ -10,7 +10,7 @@ import math
 
 ########## CONFIGURATION
 
-VIDEO_PATH          = " "
+VIDEO_PATH          = "/Path/to/your/video"  # the input video in this project is recorded video instead of device camera
 
 # Main detector: yolov6nr3 416x416
 VEHICLE_MODEL_PATH  = "models/yolov6nr3_coco_416x416.blob"
